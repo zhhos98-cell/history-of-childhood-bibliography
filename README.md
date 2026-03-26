@@ -17,9 +17,6 @@ abstract: "A structured bibliographic dataset of scholarly monographs in the his
 - **Canonical archived version (for citation):**  
   Zenodo DOI: https://doi.org/10.5281/zenodo.19229539
 
-- **Working repository (latest data and documentation):**  
-  https://github.com/YOUR-USERNAME/history-of-childhood-bibliography
-
 - **Underlying Zotero library (ongoing collection):**  
   http://zotero.org/groups/6280035
 
