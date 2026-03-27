@@ -9,7 +9,7 @@ authors:
   - family-names: "Zhang"
     given-names: "Haohao"
 license: "CC-BY-4.0"
-repository-code: "[https://github.com/YOUR-USERNAME/history-of-childhood-bibliography](https://github.com/zhhos98-cell/history-of-childhood-bibliography?tab=readme-ov-file"
+repository-code: "https://github.com/zhhos98-cell/history-of-childhood-bibliography?tab=readme-ov-file"
 abstract: "A structured bibliographic dataset of scholarly monographs in the history of childhood published between 2010 and 2025."
 
 ## Access
